@@ -1,0 +1,950 @@
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  GAMBELL A REGION
+
+  Total               3 07,096    15 9,787    147, 309     77,92 5     40,934      36,991     229,171     118,853    1 10,318
+  Affarig na               160          92          68          45         22          23         115          70          45
+  Agew-Aw inigigna          33          26           7          15         11           4          18          15           3
+  Agew-Ka myrnya           431         254         177          61         35          26         370         219         151
+  Alabign a                116          61          55          61         33          28          55          28          27
+  Amarign a             34,119     1 8,550     15, 569     13,9 76      7,544       6,432      20,143      11,006       9,137
+  Anyiwak gna           67,622     3 1,601     36, 021     20,39 6      9,702      10,694      47,226      21,899      25,327
+  Argobig na                60          38          22          29         17          12          31          21          10
+  Arigna                    34          15          19          14          7           7          20           8          12
+  Arborig na                 2           -           2           1          -           1           1           -           1
+  Bachagn a                  -           -           -           -          -           -           -           -           -
+  Basketi gna               59          35          24           5          2           3          54          33          21
+  Benchig na               781         466         315          38         29           9         743         437         306
+  Bertagn a                  6           3           3           3          1           2           3           2           1
+  Bodigna                   14          12           2           1          -           1          13          12           1
+  Braylig na                 6           2           4           3          -           3           3           2           1
+  Burjign a                  7           5           2           1          -           1           6           5           1
+  Benagna                    7           3           4           1          -           1           6           3           3
+  Charign a                 25          15          10           1          1           -          24          14          10
+  Dasenec hgna               -           -           -           -          -           -           -           -           -
+  Dawurog na               241         146          95        1 20         80          40         121          66          55
+  Debosgn a                 54          26          28          15          3          12          39          23          16
+  Derashi gna               10           7           3           4          3           1           6           4           2
+  Dimegna                   10           6           4           7          5           2           3           1           2
+  Dizigna                   37          26          11           9          7           2          28          19           9
+  Dongign a                  5           3           2           1          1           -           4           2           2
+  Demegna                    3           -           3           2          -           2           1           -           1
+  Felashi gna               40          21          19          15          6           9          25          15          10
+  Fedashi gna                9           4           5           8          3           5           1           1           -
+  Gamogna                    8           3           5           8          3           5           -           -           -
+  Gebatog na                21           7          14           1          1           -          20           6          14
+  Gedeogn a                  3           2           1           2          1           1           1           1           -
+  Gedicho gna                -           -           -           -          -           -           -           -           -
+  Gedolig na                 -           -           -           -          -           -           -           -           -
+  Goffign a                 30          16          14          30         16          14           -           -           -
+  Gumuzig na                 6           3           3           1          1           -           5           2           3
+  Guragie gna            1,462       1,016         446      1,3 20        930         390         142          86          56
+  Guagugn a                  7           6           1           6          5           1           1           1           -
+  Hadiyig na             1,125         607         518        4 72        264         208         653         343         310
+  Harerie gna                -           -           -           -          -           -           -           -           -
+  Hamerig na                 8           6           2           1          1           -           7           5           2
+  Irobign a                  5           4           1           4          3           1           1           1           -
+  Keffagn a             14,265       7,326      6, 939        9 15        473         442      13,350       6,853       6,497
+  Kembati gna            4,503       2,419      2, 084      1,7 53        976         777       2,750       1,443       1,307
+  Kontign a                  9           6           3           5          3           2           4           3           1
+  Komigna                  202         103          99          61         32          29         141          71          70
+  Konsogn a                  7           5           2           1          -           1           6           5           1
+  Koregna                    2           1           1           2          1           1           -           -           -
+  Koygogn a                  5           3           2           2          -           2           3           3           -
+  Koyrign a                  7           3           4           3          2           1           4           1           3
+  Kunamig na                33          21          12           3          1           2          30          20          10
+  Karogna                    -           -           -           -          -           -           -           -           -
+  Kusumeg na                59          33          26           -          -           -          59          33          26
+  Maliegn a                100          72          28          84         61          23          16          11           5
+  Maogna                    43          34           9          42         33           9           1           1           -
+  Marekog na                41          23          18          24         15           9          17           8           9
+  Mashili gna               47          26          21          11          7           4          36          19          17
+  Merigna                   12           8           4           7          3           4           5           5           -
+  Me'enig na               359         220         139          13          8           5         346         212         134
+  Messeng ogna              47          26          21          38         21          17           9           5           4
+  Mejenge rigna              -           -           -           -          -           -           -           -           -
+  Mossign a                 13           6           7           8          4           4           5           2           3
+  Mursygn a                  6           3           3           -          -           -           6           3           3
+  Murlegn a                 40          19          21          13          9           4          27          10          17
+  Naogna                    88          44          44          16          6          10          72          38          34
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  48
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  GAMBELL A REGION
+
+  Nuwerig na          1 48,491     7 9,246     69, 245     26,17 9     13,945      12,234     122,312      65,301      57,011
+  Nyangat omigna            44          28          16           9          5           4          35          23          12
+  Oromign a             14,901       7,799      7, 102      8,5 96      4,549       4,047       6,305       3,250       3,055
+  Oydigna                    2           -           2           2          -           2           -           -           -
+  Qebenig na                31          22           9          30         21           9           1           1           -
+  Qechemi gna              216         108         108           -          -           -         216         108         108
+  Qewamig na                 1           -           1           -          -           -           1           -           1
+  Shekach o              7,629       3,712      3, 917        1 54         75          79       7,475       3,637       3,838
+  Shekogn a              1,030         520         510          33         23          10         997         497         500
+  Shinash igna              93          43          50          87         40          47           6           3           3
+  Sidamig na               237          97         140        1 21         46          75         116          51          65
+  Shitagn a                166         127          39        1 35        109          26          31          18          13
+  Somalig na                19          14           5          11          8           3           8           6           2
+  Surmagn a                285         173         112          11          9           2         274         164         110
+  Shegna                     -           -           -           -          -           -           -           -           -
+  Shetagn a                  -           -           -           -          -           -           -           -           -
+  Tigrign a              4,054       2,194      1, 860      1,8 61      1,043         818       2,193       1,151       1,042
+  Tembaro gna              468         248         220          83         46          37         385         202         183
+  Tsemayi gna                1           1           -           -          -           -           1           1           -
+  UPO                      999         511         488          42         28          14         957         483         474
+  Welaiti gna            1,714       1,317         397        8 22        559         263         892         758         134
+  Wergign a                 15           8           7          13          6           7           2           2           -
+  Yemsagn a                 45          25          20          16          7           9          29          18          11
+  Zeysegn a                  3           2           1           2          1           1           1           1           -
+  Zlmamig na                 8           5           3           -          -           -           8           5           3
+  Other
+  Ethiopi an
+  Languag es               146          73          73           3          1           2         143          72          71
+  English                   19          13           6          17         12           5           2           1           1
+  Other
+  Foreign
+  Languag es                25          13          12          20          9          11           5           4           1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  49
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  AGNEWAK  ZONE
+
+  Total                 99,556     5 0,722     48, 834     52,56 1     27,526      25,035      46,995      23,196      23,799
+  Affarig na                44          24          20          38         18          20           6           6           -
+  Agew-Aw inigigna          16          12           4           7          5           2           9           7           2
+  Agew-Ka myrnya            23          14           9          17          9           8           6           5           1
+  Alabign a                 64          35          29          48         25          23          16          10           6
+  Amarign a             11,281       6,339      4, 942      8,0 45      4,399       3,646       3,236       1,940       1,296
+  Anyiwak gna           53,936     2 5,197     28, 739     19,18 7      9,137      10,050      34,749      16,060      18,689
+  Argobig na                25          14          11          25         14          11           -           -           -
+  Arigna                    19           8          11          13          6           7           6           2           4
+  Arborig na                 2           -           2           1          -           1           1           -           1
+  Bachagn a                  -           -           -           -          -           -           -           -           -
+  Basketi gna               56          34          22           5          2           3          51          32          19
+  Benchig na                48          42           6          16         13           3          32          29           3
+  Bertagn a                  6           3           3           3          1           2           3           2           1
+  Bodigna                    1           -           1           1          -           1           -           -           -
+  Braylig na                 3           1           2           2          -           2           1           1           -
+  Burjign a                  3           2           1           1          -           1           2           2           -
+  Benagna                    1           -           1           1          -           1           -           -           -
+  Charign a                  1           1           -           1          1           -           -           -           -
+  Dasenec hgna               -           -           -           -          -           -           -           -           -
+  Dawurog na               127          78          49          93         64          29          34          14          20
+  Debosgn a                  8           1           7           5          -           5           3           1           2
+  Derashi gna                2           2           -           2          2           -           -           -           -
+  Dimegna                    4           2           2           1          1           -           3           1           2
+  Dizigna                   18          14           4           9          7           2           9           7           2
+  Dongign a                  1           1           -           1          1           -           -           -           -
+  Demegna                    2           -           2           2          -           2           -           -           -
+  Felashi gna               15           6           9          15          6           9           -           -           -
+  Fedashi gna                8           3           5           8          3           5           -           -           -
+  Gamogna                    7           2           5           7          2           5           -           -           -
+  Gebatog na                 2           2           -           1          1           -           1           1           -
+  Gedeogn a                  2           2           -           1          1           -           1           1           -
+  Gedicho gna                -           -           -           -          -           -           -           -           -
+  Gedolig na                 -           -           -           -          -           -           -           -           -
+  Goffign a                 29          16          13          29         16          13           -           -           -
+  Gumuzig na                 4           3           1           1          1           -           3           2           1
+  Guragie gna            1,082         743         339      1,0 29        705         324          53          38          15
+  Guagugn a                  7           6           1           6          5           1           1           1           -
+  Hadiyig na             1,093         590         503        4 66        262         204         627         328         299
+  Harerie gna                -           -           -           -          -           -           -           -           -
+  Hamerig na                 1           1           -           1          1           -           -           -           -
+  Irobign a                  1           1           -           1          1           -           -           -           -
+  Keffagn a                688         381         307        3 40        178         162         348         203         145
+  Kembati gna            4,447       2,381      2, 066      1,7 16        949         767       2,731       1,432       1,299
+  Kontign a                  3           3           -           3          3           -           -           -           -
+  Komigna                  195         102          93          60         32          28         135          70          65
+  Konsogn a                  1           -           1           1          -           1           -           -           -
+  Koregna                    1           1           -           1          1           -           -           -           -
+  Koygogn a                  5           3           2           2          -           2           3           3           -
+  Koyrign a                  -           -           -           -          -           -           -           -           -
+  Kunamig na                 3           1           2           3          1           2           -           -           -
+  Karogna                    -           -           -           -          -           -           -           -           -
+  Kusumeg na                 -           -           -           -          -           -           -           -           -
+  Maliegn a                 93          66          27          84         61          23           9           5           4
+  Maogna                    40          32           8          39         31           8           1           1           -
+  Marekog na                33          19          14          23         14           9          10           5           5
+  Mashili gna               10           6           4           9          6           3           1           -           1
+  Merigna                    4           1           3           4          1           3           -           -           -
+  Me'enig na                 9           7           2           3          1           2           6           6           -
+  Messeng ogna              28          16          12          24         13          11           4           3           1
+  Mejenge rigna              -           -           -           -          -           -           -           -           -
+  Mossign a                  1           1           -           1          1           -           -           -           -
+  Mursygn a                  -           -           -           -          -           -           -           -           -
+  Murlegn a                 11           6           5           5          3           2           6           3           3
+  Naogna                    14           6           8          12          5           7           2           1           1
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  50
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  AGNEWAK  ZONE
+
+  Nuwerig na            12,459       6,732      5, 727     11,0 19      5,963       5,056       1,440         769         671
+  Nyangat omigna            10           6           4           6          3           3           4           3           1
+  Oromign a              8,551       4,599      3, 952      7,2 97      3,875       3,422       1,254         724         530
+  Oydigna                    2           -           2           2          -           2           -           -           -
+  Qebenig na                 6           4           2           5          3           2           1           1           -
+  Qechemi gna              181          93          88           -          -           -         181          93          88
+  Qewamig na                 -           -           -           -          -           -           -           -           -
+  Shekach o                 52          34          18          43         26          17           9           8           1
+  Shekogn a                180          90          90           8          6           2         172          84          88
+  Shinash igna              87          41          46          82         38          44           5           3           2
+  Sidamig na                22          14           8          14          7           7           8           7           1
+  Shitagn a                 74          57          17          55         45          10          19          12           7
+  Somalig na                17          13           4          11          8           3           6           5           1
+  Surmagn a                283         171         112          11          9           2         272         162         110
+  Shegna                     -           -           -           -          -           -           -           -           -
+  Shetagn a                  -           -           -           -          -           -           -           -           -
+  Tigrign a              1,955       1,095         860      1,6 75        927         748         280         168         112
+  Tembaro gna              458         241         217          83         46          37         375         195         180
+  Tsemayi gna                1           1           -           -          -           -           1           1           -
+  UPO                       48          38          10          32         22          10          16          16           -
+  Welaiti gna            1,442       1,157         285        7 44        511         233         698         646          52
+  Wergign a                 10           5           5           8          3           5           2           2           -
+  Yemsagn a                 16           7           9          15          6           9           1           1           -
+  Zeysegn a                  3           2           1           2          1           1           1           1           -
+  Zlmamig na                 -           -           -           -          -           -           -           -           -
+  Other
+  Ethiopi an
+  Languag es               138          70          68           2          1           1         136          69          67
+  English                   14           9           5          14          9           5           -           -           -
+  Other
+  Foreign
+  Languag es                19          12           7          14          8           6           5           4           1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  51
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  NUWER Z ONE
+
+  Total               1 12,606     6 0,543     52, 063     12,26 6      6,611       5,655     100,340      53,932      46,408
+  Affarig na                 4           1           3           4          1           3           -           -           -
+  Agew-Aw inigigna           2           2           -           2          2           -           -           -           -
+  Agew-Ka myrnya            13           7           6          13          7           6           -           -           -
+  Alabign a                  6           4           2           5          3           2           1           1           -
+  Amarign a                541         314         227        5 12        294         218          29          20           9
+  Anyiwak gna            2,314       1,132      1, 182        2 05        103         102       2,109       1,029       1,080
+  Argobig na                 -           -           -           -          -           -           -           -           -
+  Arigna                     1           1           -           1          1           -           -           -           -
+  Arborig na                 -           -           -           -          -           -           -           -           -
+  Bachagn a                  -           -           -           -          -           -           -           -           -
+  Basketi gna                2           -           2           -          -           -           2           -           2
+  Benchig na                 -           -           -           -          -           -           -           -           -
+  Bertagn a                  -           -           -           -          -           -           -           -           -
+  Bodigna                    -           -           -           -          -           -           -           -           -
+  Braylig na                 1           -           1           -          -           -           1           -           1
+  Burjign a                  -           -           -           -          -           -           -           -           -
+  Benagna                    -           -           -           -          -           -           -           -           -
+  Charign a                  -           -           -           -          -           -           -           -           -
+  Dasenec hgna               -           -           -           -          -           -           -           -           -
+  Dawurog na                12          10           2           3          1           2           9           9           -
+  Debosgn a                  -           -           -           -          -           -           -           -           -
+  Derashi gna                -           -           -           -          -           -           -           -           -
+  Dimegna                    6           4           2           6          4           2           -           -           -
+  Dizigna                    -           -           -           -          -           -           -           -           -
+  Dongign a                  1           -           1           -          -           -           1           -           1
+  Demegna                    1           -           1           -          -           -           1           -           1
+  Felashi gna                -           -           -           -          -           -           -           -           -
+  Fedashi gna                -           -           -           -          -           -           -           -           -
+  Gamogna                    -           -           -           -          -           -           -           -           -
+  Gebatog na                 -           -           -           -          -           -           -           -           -
+  Gedeogn a                  1           -           1           1          -           1           -           -           -
+  Gedicho gna                -           -           -           -          -           -           -           -           -
+  Gedolig na                 -           -           -           -          -           -           -           -           -
+  Goffign a                  -           -           -           -          -           -           -           -           -
+  Gumuzig na                 1           -           1           -          -           -           1           -           1
+  Guragie gna              212         166          46        2 12        166          46           -           -           -
+  Guagugn a                  -           -           -           -          -           -           -           -           -
+  Hadiyig na                 1           1           -           1          1           -           -           -           -
+  Harerie gna                -           -           -           -          -           -           -           -           -
+  Hamerig na                 -           -           -           -          -           -           -           -           -
+  Irobign a                  3           2           1           3          2           1           -           -           -
+  Keffagn a                  8           3           5           8          3           5           -           -           -
+  Kembati gna                9           8           1           8          7           1           1           1           -
+  Kontign a                  1           -           1           1          -           1           -           -           -
+  Komigna                    1           1           -           -          -           -           1           1           -
+  Konsogn a                  -           -           -           -          -           -           -           -           -
+  Koregna                    -           -           -           -          -           -           -           -           -
+  Koygogn a                  -           -           -           -          -           -           -           -           -
+  Koyrign a                  -           -           -           -          -           -           -           -           -
+  Kunamig na                 -           -           -           -          -           -           -           -           -
+  Karogna                    -           -           -           -          -           -           -           -           -
+  Kusumeg na                 -           -           -           -          -           -           -           -           -
+  Maliegn a                  -           -           -           -          -           -           -           -           -
+  Maogna                     3           2           1           3          2           1           -           -           -
+  Marekog na                 5           1           4           1          1           -           4           -           4
+  Mashili gna               24           9          15           2          1           1          22           8          14
+  Merigna                    -           -           -           -          -           -           -           -           -
+  Me'enig na                 -           -           -           -          -           -           -           -           -
+  Messeng ogna               7           5           2           7          5           2           -           -           -
+  Mejenge rigna              -           -           -           -          -           -           -           -           -
+  Mossign a                  2           2           -           2          2           -           -           -           -
+  Mursygn a                  1           1           -           -          -           -           1           1           -
+  Murlegn a                  1           1           -           1          1           -           -           -           -
+  Naogna                    28          18          10           4          1           3          24          17           7
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  52
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  NUWER Z ONE
+
+  Nuwerig na          1 08,870     5 8,530     50, 340     10,83 8      5,736       5,102      98,032      52,794      45,238
+  Nyangat omigna            14           7           7           3          2           1          11           5           6
+  Oromign a                242         161          81        2 34        154          80           8           7           1
+  Oydigna                    -           -           -           -          -           -           -           -           -
+  Qebenig na                25          18           7          25         18           7           -           -           -
+  Qechemi gna                -           -           -           -          -           -           -           -           -
+  Qewamig na                 -           -           -           -          -           -           -           -           -
+  Shekach o                  3           1           2           -          -           -           3           1           2
+  Shekogn a                  -           -           -           -          -           -           -           -           -
+  Shinash igna               2           1           1           2          1           1           -           -           -
+  Sidamig na                89          31          58          39         12          27          50          19          31
+  Shitagn a                 34          27           7          33         27           6           1           -           1
+  Somalig na                 -           -           -           -          -           -           -           -           -
+  Surmagn a                  -           -           -           -          -           -           -           -           -
+  Shegna                     -           -           -           -          -           -           -           -           -
+  Shetagn a                  -           -           -           -          -           -           -           -           -
+  Tigrign a                 65          41          24          63         39          24           2           2           -
+  Tembaro gna                -           -           -           -          -           -           -           -           -
+  Tsemayi gna                -           -           -           -          -           -           -           -           -
+  UPO                        -           -           -           -          -           -           -           -           -
+  Welaiti gna               38          24          14          18         11           7          20          13           7
+  Wergign a                  4           2           2           4          2           2           -           -           -
+  Yemsagn a                  1           1           -           1          1           -           -           -           -
+  Zeysegn a                  -           -           -           -          -           -           -           -           -
+  Zlmamig na                 6           4           2           -          -           -           6           4           2
+  Other
+  Ethiopi an
+  Languag es                 -           -           -           -          -           -           -           -           -
+  English                    -           -           -           -          -           -           -           -           -
+  Other
+  Foreign
+  Languag es                 1           -           1           1          -           1           -           -           -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  53
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  MEZHENG ER ZONE
+
+  Total                 59,248     3 0,567     28, 681      7,14 0      3,747       3,393      52,108      26,820      25,288
+  Affarig na                96          52          44           3          3           -          93          49          44
+  Agew-Aw inigigna          12           9           3           5          3           2           7           6           1
+  Agew-Ka myrnya           317         177         140           2          2           -         315         175         140
+  Alabign a                 22           9          13           1          -           1          21           9          12
+  Amarign a             21,969     1 1,710     10, 259      5,1 49      2,704       2,445      16,820       9,006       7,814
+  Anyiwak gna            2,184       1,076      1, 108          54         33          21       2,130       1,043       1,087
+  Argobig na                32          23           9           3          3           -          29          20           9
+  Arigna                    10           3           7           -          -           -          10           3           7
+  Arborig na                 -           -           -           -          -           -           -           -           -
+  Bachagn a                  -           -           -           -          -           -           -           -           -
+  Basketi gna                1           1           -           -          -           -           1           1           -
+  Benchig na               733         424         309          22         16           6         711         408         303
+  Bertagn a                  -           -           -           -          -           -           -           -           -
+  Bodigna                    -           -           -           -          -           -           -           -           -
+  Braylig na                 2           1           1           1          -           1           1           1           -
+  Burjign a                  1           1           -           -          -           -           1           1           -
+  Benagna                    6           3           3           -          -           -           6           3           3
+  Charign a                 24          14          10           -          -           -          24          14          10
+  Dasenec hgna               -           -           -           -          -           -           -           -           -
+  Dawurog na                82          40          42          22         15           7          60          25          35
+  Debosgn a                 45          25          20          10          3           7          35          22          13
+  Derashi gna                7           4           3           2          1           1           5           3           2
+  Dimegna                    -           -           -           -          -           -           -           -           -
+  Dizigna                   19          12           7           -          -           -          19          12           7
+  Dongign a                  1           -           1           -          -           -           1           -           1
+  Demegna                    -           -           -           -          -           -           -           -           -
+  Felashi gna               25          15          10           -          -           -          25          15          10
+  Fedashi gna                -           -           -           -          -           -           -           -           -
+  Gamogna                    1           1           -           1          1           -           -           -           -
+  Gebatog na                19           5          14           -          -           -          19           5          14
+  Gedeogn a                  -           -           -           -          -           -           -           -           -
+  Gedicho gna                -           -           -           -          -           -           -           -           -
+  Gedolig na                 -           -           -           -          -           -           -           -           -
+  Goffign a                  -           -           -           -          -           -           -           -           -
+  Gumuzig na                 -           -           -           -          -           -           -           -           -
+  Guragie gna              129          77          52          41         30          11          88          47          41
+  Guagugn a                  -           -           -           -          -           -           -           -           -
+  Hadiyig na                29          15          14           5          1           4          24          14          10
+  Harerie gna                -           -           -           -          -           -           -           -           -
+  Hamerig na                 7           5           2           -          -           -           7           5           2
+  Irobign a                  1           1           -           -          -           -           1           1           -
+  Keffagn a             13,563       6,939      6, 624        5 66        292         274      12,997       6,647       6,350
+  Kembati gna               43          26          17          26         17           9          17           9           8
+  Kontign a                  5           3           2           1          -           1           4           3           1
+  Komigna                    5           -           5           -          -           -           5           -           5
+  Konsogn a                  6           5           1           -          -           -           6           5           1
+  Koregna                    -           -           -           -          -           -           -           -           -
+  Koygogn a                  -           -           -           -          -           -           -           -           -
+  Koyrign a                  7           3           4           3          2           1           4           1           3
+  Kunamig na                30          20          10           -          -           -          30          20          10
+  Karogna                    -           -           -           -          -           -           -           -           -
+  Kusumeg na                59          33          26           -          -           -          59          33          26
+  Maliegn a                  7           6           1           -          -           -           7           6           1
+  Maogna                     -           -           -           -          -           -           -           -           -
+  Marekog na                 3           3           -           -          -           -           3           3           -
+  Mashili gna                9           8           1           -          -           -           9           8           1
+  Merigna                    8           7           1           3          2           1           5           5           -
+  Me'enig na               350         213         137          10          7           3         340         206         134
+  Messeng ogna              11           5           6           7          3           4           4           2           2
+  Mejenge rigna              -           -           -           -          -           -           -           -           -
+  Mossign a                  8           2           6           5          1           4           3           1           2
+  Mursygn a                  5           2           3           -          -           -           5           2           3
+  Murlegn a                 27          12          15           7          5           2          20           7          13
+  Naogna                    43          17          26           -          -           -          43          17          26
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  54
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  MEZHENG ER ZONE
+
+  Nuwerig na             2,639       1,304      1, 335          31         16          15       2,608       1,288       1,320
+  Nyangat omigna            20          15           5           -          -           -          20          15           5
+  Oromign a              5,872       2,914      2, 958        8 62        417         445       5,010       2,497       2,513
+  Oydigna                    -           -           -           -          -           -           -           -           -
+  Qebenig na                 -           -           -           -          -           -           -           -           -
+  Qechemi gna               35          15          20           -          -           -          35          15          20
+  Qewamig na                 1           -           1           -          -           -           1           -           1
+  Shekach o              7,574       3,677      3, 897        1 11         49          62       7,463       3,628       3,835
+  Shekogn a                850         430         420          25         17           8         825         413         412
+  Shinash igna               4           1           3           3          1           2           1           -           1
+  Sidamig na                13           8           5           1          1           -          12           7           5
+  Shitagn a                 37          27          10          26         21           5          11           6           5
+  Somalig na                 1           -           1           -          -           -           1           -           1
+  Surmagn a                  1           1           -           -          -           -           1           1           -
+  Shegna                     -           -           -           -          -           -           -           -           -
+  Shetagn a                  -           -           -           -          -           -           -           -           -
+  Tigrign a              1,986       1,027         959          88         57          31       1,898         970         928
+  Tembaro gna                -           -           -           -          -           -           -           -           -
+  Tsemayi gna                -           -           -           -          -           -           -           -           -
+  UPO                        1           -           1           -          -           -           1           -           1
+  Welaiti gna              214         119          95          44         24          20         170          95          75
+  Wergign a                  -           -           -           -          -           -           -           -           -
+  Yemsagn a                 28          17          11           -          -           -          28          17          11
+  Zeysegn a                  -           -           -           -          -           -           -           -           -
+  Zlmamig na                 1           1           -           -          -           -           1           1           -
+  Other
+  Ethiopi an
+  Languag es                 7           3           4           -          -           -           7           3           4
+  English                    1           1           -           -          -           -           1           1           -
+  Other
+  Foreign
+  Languag es                 -           -           -           -          -           -           -           -           -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  55
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  ETANG S PECIAL WEREDA
+
+  Total                 35,686     1 7,955     17, 731      5,95 8      3,050       2,908      29,728      14,905      14,823
+  Affarig na                16          15           1           -          -           -          16          15           1
+  Agew-Aw inigigna           3           3           -           1          1           -           2           2           -
+  Agew-Ka myrnya            78          56          22          29         17          12          49          39          10
+  Alabign a                 24          13          11           7          5           2          17           8           9
+  Amarign a                328         187         141        2 70        147         123          58          40          18
+  Anyiwak gna            9,188       4,196      4, 992        9 50        429         521       8,238       3,767       4,471
+  Argobig na                 3           1           2           1          -           1           2           1           1
+  Arigna                     4           3           1           -          -           -           4           3           1
+  Arborig na                 -           -           -           -          -           -           -           -           -
+  Bachagn a                  -           -           -           -          -           -           -           -           -
+  Basketi gna                -           -           -           -          -           -           -           -           -
+  Benchig na                 -           -           -           -          -           -           -           -           -
+  Bertagn a                  -           -           -           -          -           -           -           -           -
+  Bodigna                   13          12           1           -          -           -          13          12           1
+  Braylig na                 -           -           -           -          -           -           -           -           -
+  Burjign a                  3           2           1           -          -           -           3           2           1
+  Benagna                    -           -           -           -          -           -           -           -           -
+  Charign a                  -           -           -           -          -           -           -           -           -
+  Dasenec hgna               -           -           -           -          -           -           -           -           -
+  Dawurog na                20          18           2           2          -           2          18          18           -
+  Debosgn a                  1           -           1           -          -           -           1           -           1
+  Derashi gna                1           1           -           -          -           -           1           1           -
+  Dimegna                    -           -           -           -          -           -           -           -           -
+  Dizigna                    -           -           -           -          -           -           -           -           -
+  Dongign a                  2           2           -           -          -           -           2           2           -
+  Demegna                    -           -           -           -          -           -           -           -           -
+  Felashi gna                -           -           -           -          -           -           -           -           -
+  Fedashi gna                1           1           -           -          -           -           1           1           -
+  Gamogna                    -           -           -           -          -           -           -           -           -
+  Gebatog na                 -           -           -           -          -           -           -           -           -
+  Gedeogn a                  -           -           -           -          -           -           -           -           -
+  Gedicho gna                -           -           -           -          -           -           -           -           -
+  Gedolig na                 -           -           -           -          -           -           -           -           -
+  Goffign a                  1           -           1           1          -           1           -           -           -
+  Gumuzig na                 1           -           1           -          -           -           1           -           1
+  Guragie gna               39          30           9          38         29           9           1           1           -
+  Guagugn a                  -           -           -           -          -           -           -           -           -
+  Hadiyig na                 2           1           1           -          -           -           2           1           1
+  Harerie gna                -           -           -           -          -           -           -           -           -
+  Hamerig na                 -           -           -           -          -           -           -           -           -
+  Irobign a                  -           -           -           -          -           -           -           -           -
+  Keffagn a                  6           3           3           1          -           1           5           3           2
+  Kembati gna                4           4           -           3          3           -           1           1           -
+  Kontign a                  -           -           -           -          -           -           -           -           -
+  Komigna                    1           -           1           1          -           1           -           -           -
+  Konsogn a                  -           -           -           -          -           -           -           -           -
+  Koregna                    1           -           1           1          -           1           -           -           -
+  Koygogn a                  -           -           -           -          -           -           -           -           -
+  Koyrign a                  -           -           -           -          -           -           -           -           -
+  Kunamig na                 -           -           -           -          -           -           -           -           -
+  Karogna                    -           -           -           -          -           -           -           -           -
+  Kusumeg na                 -           -           -           -          -           -           -           -           -
+  Maliegn a                  -           -           -           -          -           -           -           -           -
+  Maogna                     -           -           -           -          -           -           -           -           -
+  Marekog na                 -           -           -           -          -           -           -           -           -
+  Mashili gna                4           3           1           -          -           -           4           3           1
+  Merigna                    -           -           -           -          -           -           -           -           -
+  Me'enig na                 -           -           -           -          -           -           -           -           -
+  Messeng ogna               1           -           1           -          -           -           1           -           1
+  Mejenge rigna              -           -           -           -          -           -           -           -           -
+  Mossign a                  2           1           1           -          -           -           2           1           1
+  Mursygn a                  -           -           -           -          -           -           -           -           -
+  Murlegn a                  1           -           1           -          -           -           1           -           1
+  Naogna                     3           3           -           -          -           -           3           3           -
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  56
+
+
+
+
+
+
+  Table 3 .2 Population  by Urban-Ru ral Residence , Sex, and Mo ther Tongue:  2007
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+                                Urban +  Rural                            Urban                               Rural
+                      ------- ------------- ------------ -   --------- ------------- --------  -- ------------- -------------
+                          Both                                Both                               Both
+  Mother  Tongue         Sexes        Male     Fem ale      Sexe s       Male      Female       Sexes        Male      Female
+  ------- ------------- ------------ ------------- ------------- ------------ ------------- ------------- ------------ ------
+
+  ETANG S PECIAL WEREDA
+
+  Nuwerig na            24,523     1 2,680     11, 843      4,2 91      2,230       2,061      20,232      10,450       9,782
+  Nyangat omigna             -           -           -           -          -           -           -           -           -
+  Oromign a                236         125         111        2 03        103         100          33          22          11
+  Oydigna                    -           -           -           -          -           -           -           -           -
+  Qebenig na                 -           -           -           -          -           -           -           -           -
+  Qechemi gna                -           -           -           -          -           -           -           -           -
+  Qewamig na                 -           -           -           -          -           -           -           -           -
+  Shekach o                  -           -           -           -          -           -           -           -           -
+  Shekogn a                  -           -           -           -          -           -           -           -           -
+  Shinash igna               -           -           -           -          -           -           -           -           -
+  Sidamig na               113          44          69          67         26          41          46          18          28
+  Shitagn a                 21          16           5          21         16           5           -           -           -
+  Somalig na                 1           1           -           -          -           -           1           1           -
+  Surmagn a                  1           1           -           -          -           -           1           1           -
+  Shegna                     -           -           -           -          -           -           -           -           -
+  Shetagn a                  -           -           -           -          -           -           -           -           -
+  Tigrign a                 48          31          17          35         20          15          13          11           2
+  Tembaro gna               10           7           3           -          -           -          10           7           3
+  Tsemayi gna                -           -           -           -          -           -           -           -           -
+  UPO                      950         473         477          10          6           4         940         467         473
+  Welaiti gna               20          17           3          16         13           3           4           4           -
+  Wergign a                  1           1           -           1          1           -           -           -           -
+  Yemsagn a                  -           -           -           -          -           -           -           -           -
+  Zeysegn a                  -           -           -           -          -           -           -           -           -
+  Zlmamig na                 1           -           1           -          -           -           1           -           1
+  Other
+  Ethiopi an
+  Languag es                 1           -           1           1          -           1           -           -           -
+  English                    4           3           1           3          3           -           1           -           1
+  Other
+  Foreign
+  Languag es                 5           1           4           5          1           4           -           -           -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  57
+
+
+
+
