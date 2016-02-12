@@ -60,6 +60,7 @@ if (dataType == "ethnic.group")
 
 
 # Open connection to file
+# Source: http://www.csa.gov.et/index.php/2013-02-20-14-51-51/census-tables
 fPath = file.path("rawdata/", targetRegion, "-", dataTypeNumber,
                    ".txt", fsep="")
 f = file(fPath)
