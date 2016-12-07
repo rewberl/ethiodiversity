@@ -28,7 +28,7 @@ quick.subset = function(x, longlat){
 
 
 # Read in data
-points = read.csv("Apr 2015/Rdata.csv")
+# points = read.csv("Apr 2015/Rdata.csv")
 
 # Read in map data
 
